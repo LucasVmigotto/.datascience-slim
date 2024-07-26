@@ -2,7 +2,7 @@
 
 [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white)](https://conventionalcommits.org)
 
-A lighter version of the [Data Science Template](https://github.com/LucasVmigotto/datascience)
+A lighter version of the [Data Science Template](https://github.com/LucasVmigotto/.datascience)
 
 ## Getting started
 
@@ -11,19 +11,19 @@ Clone the repository into the desire folder
 * With `ssh`
 
     ```bash
-    git clone git@github.com:LucasVmigotto/datascience-slim.git
+    git clone git@github.com:LucasVmigotto/.datascience-slim.git
     ```
 
 * With `HTTPS`
 
     ```bash
-    git clone https://github.com/LucasVmigotto/datascience-slim.git
+    git clone https://github.com/LucasVmigotto/.datascience-slim.git
     ```
 
 * With GitHub CLI
 
     ```bash
-    gh repo clone LucasVmigotto/datascience-slim
+    gh repo clone LucasVmigotto/.datascience-slim
     ```
 
 ## Pre requisites
